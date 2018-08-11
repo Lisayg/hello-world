@@ -1,4 +1,7 @@
 # hello-world
+git 사용실습
+
+1. 아침
 
 Hi Humans!
 
