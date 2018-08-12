@@ -1,9 +1,9 @@
 # hello-world
-git 사용실습
+git workshop
 
-1. 아침
-2. 점심
-3. 저녁
+1. breakfast
+2. lunch
+3. dinner
 
 Hi Humans!
 
